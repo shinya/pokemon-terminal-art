@@ -6,7 +6,7 @@ Display Pokemon in Terminal
 
 ## Overview - これはなに？
 
-> "I want to display Pokemon on the terminal!" <br>
+"I want to display Pokemon on the terminal!" <br>
 I will make your wish come true.
 
 「ターミナルにポケモンを表示したい！」<br>
@@ -42,8 +42,7 @@ Please use it for `motd` at login and etc...
 ## About copyright ※重要※
 
 Pokémon is copyright © 1998-2021 Pokémon Inc. <br>
-© 1995-2021 Nintendo/Creatures Inc./GAME FREAK inc. TM, <br>
-® and Pokémon character names are trademarks of Nintendo.<br>
+© 1995-2021 Nintendo/Creatures Inc./GAME FREAK inc. TM, ® and Pokémon character names are trademarks of Nintendo.<br>
 
 ポケットモンスター(Pokémon)の著作権及び商標は任天堂および関連企業に帰属します。<br>
 
