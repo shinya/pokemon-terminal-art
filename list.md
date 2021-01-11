@@ -3,6 +3,7 @@
 * You can see the graphic for each version
 
 ```bash
+# for display command
 curl -s "(Your favorite URL described below)"
 ```
 
