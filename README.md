@@ -1,4 +1,4 @@
-# Pokemon Terminal Art
+# Pokémon Terminal Art
 
 * Please click [here](./list.md) for Pokémon list
 * [日本語版](./docs/ja/README.md)
@@ -38,7 +38,7 @@ Please use it for `motd` at login and etc...
 
 * If you want to display the diamond version of Pikachu
 
-```
+```bash
 cat 256color/diamond/025.txt
 ```
 
@@ -46,7 +46,7 @@ cat 256color/diamond/025.txt
 
 Pokémon List is [here](./list.md)
 
-```
+```bash
 curl -s "https://raw.githubusercontent.com/shinya/pokemon-terminal-art/main/256color/diamond/025.txt"
 ```
 

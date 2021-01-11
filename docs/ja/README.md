@@ -1,6 +1,6 @@
 # Pokemon Terminal Art
 
-* ポケモン一覧表は[こちら](../../list.md)
+* ポケモン一覧表は[こちら](./list.md)
 * [English](../../README.md)
 
 ポケモンをターミナルに表示するツールです
@@ -38,15 +38,15 @@ curl -s -L "https://raw.githubusercontent.com/shinya/pokemon-terminal-art/main/h
 
 * 例えばダイアモンド版のピカチュウを表示したい場合は、以下のようにコマンドを叩いて下さい。
 
-```
+```bash
 cat 256color/diamond/025.txt
 ```
 
 * もしくは直接当リポジトリのリンクを使用するのも可能です
 
-ポケモン一覧表は[こちら](../../list.md)から検索可能
+ポケモン一覧表は[こちら](./list.md)から検索可能
 
-```
+```bash
 curl -s "https://raw.githubusercontent.com/shinya/pokemon-terminal-art/main/256color/diamond/025.txt"
 ```
 
