@@ -1,6 +1,6 @@
 # Pokemon Terminal Art
 
-* Please click [here](../../list.md) for Pokémon list
+* Please click [here](./list.md) for Pokémon list
 * [日本語版](./docs/ja/README.md)
 
 Display Pokémon in Terminal
@@ -44,7 +44,7 @@ cat 256color/diamond/025.txt
 
 * You can use curl to refer to a direct link
 
-Pokémon List is [here](../../list.md)
+Pokémon List is [here](./list.md)
 
 ```
 curl -s "https://raw.githubusercontent.com/shinya/pokemon-terminal-art/main/256color/diamond/025.txt"
