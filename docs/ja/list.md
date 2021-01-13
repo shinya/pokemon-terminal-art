@@ -1,5 +1,7 @@
 # ポケモンURL一覧表
 
+English list is [here](../../list.md)
+
 * この表で、各バージョンごとのグラフィックが参照できます
 
 ```bash

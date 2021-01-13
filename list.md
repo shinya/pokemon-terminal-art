@@ -1,5 +1,7 @@
 # Pokémon's URL List
 
+日本語版のリストは[こちら](./docs/js/list.md)
+
 * You can see the graphic for each version
 
 ```bash
