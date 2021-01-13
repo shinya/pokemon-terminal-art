@@ -1,6 +1,6 @@
 # Pokémon's URL List
 
-日本語版のリストは[こちら](./docs/js/list.md)
+日本語版のリストは[こちら](./docs/ja/list.md)
 
 * You can see the graphic for each version
 
